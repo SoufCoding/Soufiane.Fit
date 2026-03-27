@@ -1,5 +1,5 @@
 var typed = new Typed('.typing',{
-    strings:["Personal Trainer","Karate Coach","Fitness Coach","HandBall Athlete"],
+    strings:["Personal Trainer","Karate Coach","Physical Educator","HandBall Athlete"],
     typeSpeed: 100,
     backSpeed: 60,
     loop: true,

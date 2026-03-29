@@ -637,9 +637,10 @@ h3.my-profission{
   
   .card__title {
     margin: 0;
-    font-size: 24px;
+    font-size: 16px;
     color: #333;
     font-weight: 700;
+    line-height: 1;
   }
   
   .card:hover svg {
@@ -648,9 +649,9 @@ h3.my-profission{
   
   .card__description {
     margin: 10px 0 0;
-    font-size: 14px;
+    font-size: 13px;
     color: #777;
-    line-height: 1.4;
+    line-height: 1;
   }
   
 /*************************** Contact S *************************/
